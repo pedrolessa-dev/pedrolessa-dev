@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, sou o Pedro Lessa! 👋
 
-<!--
-**pedrolessa-dev/pedrolessa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Estudante de engenharia de software;
+- 📅 Iniciou seus estudos na linguagem java em janeiro de 2023;
+- 👦🏻 Jovem de 17 anos.
 
-Here are some ideas to get you started:
+### Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/pedro-lessa-6219a5212/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens Utilizadas:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+)
