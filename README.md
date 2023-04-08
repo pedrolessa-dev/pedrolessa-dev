@@ -25,6 +25,6 @@
 
 <a href="http://www.github.com/pedrolessa-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedrolessa-dev&bg_color=1c1917&color=fefefe&line=079ee8&point=fefefe&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<!-- ![Snake animation](https://github.com/pedrolessa-dev/pedrolessa-dev/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/pedrolessa-dev/pedrolessa-dev/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=079ee8&height=120&section=footer"/>
