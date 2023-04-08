@@ -17,11 +17,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lessa-6219a5212/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrovideosanimados@gmail.com)
 
 ### Estatísticas:
-<a href="http://www.github.com/pedrolessa-dev"><img src="https://github-readme-stats.vercel.app/api?username=pedrolessa-dev&show_icons=true&hide=&count_private=true&title_color=079ee8&text_color=fefefe&icon_color=079ee8&bg_color=1c1917&hide_border=false&show_icons=true" alt="pedrolessa-dev's GitHub stats" /></a><a href="http://www.github.com/pedrolessa-dev">
+<a href="http://www.github.com/pedrolessa-dev"><img src="https://github-readme-stats.vercel.app/api?username=pedrolessa-dev&show_icons=true&hide=&count_private=true&title_color=079ee8&text_color=fefefe&icon_color=079ee8&bg_color=1c1917&hide_border=false&show_icons=true" alt="pedrolessa-dev's GitHub stats" /></a><a href="http://www.github.com/pedrolessa-dev"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolessa-dev&stroke=fefefe&background=1c1917&ring=079ee8&fire=079ee8&currStreakNum=fefefe&currStreakLabel=079ee8&sideNums=fefefe&sideLabels=fefefe&dates=fefe&hide_border=false" /></a> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolessa-dev&stroke=fefefe&background=1c1917&ring=079ee8&fire=079ee8&currStreakNum=fefefe&currStreakLabel=079ee8&sideNums=fefefe&sideLabels=fefefe&dates=fefe&hide_border=false" /></a> 
-
-<a href="https://github.com/pedrolessa-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolessa-dev&langs_count=10&title_color=079ee8&text_color=fefefe&icon_color=079ee8&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/pedrolessa-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolessa-dev&langs_count=10&title_color=079ee8&text_color=fefefe&icon_color=079ee8&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <a href="http://www.github.com/pedrolessa-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedrolessa-dev&bg_color=1c1917&color=fefefe&line=079ee8&point=fefefe&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
