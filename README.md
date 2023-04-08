@@ -1,8 +1,6 @@
-### Olá, sou o Pedro Lessa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c1917&height=120&section=header"/> -->
 
-- 👨‍💻 Estudante de engenharia de software;
-- 📅 Iniciou seus estudos na linguagem java em janeiro de 2023;
-- 👦🏻 Jovem de 17 anos.
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c1917&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Lessa;Eu+tenho+17+anos;Eu+estou+graduando+em+Engenharia+de+Software;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg) -->
 
 ### Ferramentas:
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
@@ -27,4 +25,6 @@
 
 <a href="http://www.github.com/pedrolessa-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedrolessa-dev&bg_color=1c1917&color=fefefe&line=0891b2&point=fefefe&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-![Snake animation](https://github.com/pedrolessa-dev/pedrolessa-dev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/pedrolessa-dev/pedrolessa-dev/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c1917&height=120&section=footer"/> -->
