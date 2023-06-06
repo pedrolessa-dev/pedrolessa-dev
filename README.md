@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=079ee8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=079ee8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Lessa!;Eu+tenho+17+anos;Graduando+em+Engenharia+de+Software;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=079ee8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Pedro+Lessa!;Eu+tenho+18+anos;Graduando+em+Engenharia+de+Software;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ### Ferramentas:
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
